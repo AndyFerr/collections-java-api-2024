@@ -1,4 +1,4 @@
-package edu.dio.examples.somaNumeros;
+package edu.dio.examples.List;
 import java.util.ArrayList;
 import  java.util.List;
 public class SomaNumeros {

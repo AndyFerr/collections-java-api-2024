@@ -1,4 +1,4 @@
-package edu.dio.examples.listadetarefas;
+package edu.dio.examples.List.listadetarefas;
 
 import java.util.ArrayList;
 import java.util.List;

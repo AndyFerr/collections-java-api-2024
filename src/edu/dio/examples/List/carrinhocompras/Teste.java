@@ -1,4 +1,4 @@
-package edu.dio.examples.carrinhocompras;
+package edu.dio.examples.List.carrinhocompras;
 
 public class Teste{
     public static void main(String[] args) {

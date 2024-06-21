@@ -1,4 +1,4 @@
-package edu.dio.examples.OrdencaoNumeros;
+package edu.dio.examples.List.OrdencaoNumeros;
 
 import java.util.ArrayList;
 import java.util.Collections;
